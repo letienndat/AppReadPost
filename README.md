@@ -14,4 +14,8 @@
 -   Chạy file create.sql (File này để tạo Database và các bảng) trong thư mục sql
 -   Vào file InfoConnectDatabase.java, ở phần khai báo thuộc tính kết nối MySQL sửa giá trị thuộc tính tương ứng để kết nối tới MySQL của bạn
 -   Sau cùng, bạn chạy file Main.java để dùng chương trình
+#### Hình ảnh chương trình:
+<img src="/image_readme/1.PNG">
+<img src="/image_readme/2.PNG">
+
 ### Goodluck!
